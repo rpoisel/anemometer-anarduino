@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# PlatformIO files/directories
+.pioenvs
+.piolibdeps
